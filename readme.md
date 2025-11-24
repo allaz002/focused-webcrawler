@@ -1,4 +1,4 @@
-# Bachelorarbeit: Analyse und Vergleich von Ansätzen zum themenbasierten Crawling im Web
+# Analyse und Vergleich von Ansätzen zum themenbasierten Crawling im Web
 
 ## Entwicklungsumgebung
 - Windows 11
